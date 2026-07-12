@@ -1,0 +1,962 @@
+[
+  {
+    "doc_id": "doc_001",
+    "text": "The export manifest names NAE, alongside Rajesh Kumar Sharma.",
+    "mentions": [
+      {
+        "surface_form": "NAE",
+        "context": "The export manifest names NAE, alongside Rajesh Kumar Sharma.",
+        "gold_entity_id": "GOLD_E10"
+      },
+      {
+        "surface_form": "Rajesh Kumar Sharma",
+        "context": "The export manifest names NAE, alongside Rajesh Kumar Sharma.",
+        "gold_entity_id": "GOLD_E01"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_002",
+    "text": "According to the note, the HR manager coordinated a joint session with Chandrashekhar Industries.",
+    "mentions": [
+      {
+        "surface_form": "the HR manager",
+        "context": "According to the note, the HR manager coordinated a joint session with Chandrashekhar Industries.",
+        "gold_entity_id": "GOLD_E06"
+      },
+      {
+        "surface_form": "Chandrashekhar Industries",
+        "context": "According to the note, the HR manager coordinated a joint session with Chandrashekhar Industries.",
+        "gold_entity_id": "GOLD_E12"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_003",
+    "text": "The partnership brief lists Rani Ent., alongside Vikram Aditya Rao.",
+    "mentions": [
+      {
+        "surface_form": "Rani Ent.",
+        "context": "The partnership brief lists Rani Ent., alongside Vikram Aditya Rao.",
+        "gold_entity_id": "GOLD_E14"
+      },
+      {
+        "surface_form": "Vikram Aditya Rao",
+        "context": "The partnership brief lists Rani Ent., alongside Vikram Aditya Rao.",
+        "gold_entity_id": "GOLD_E05"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_004",
+    "text": "A support ticket mentions that the Gujarat franchise owner escalated a billing issue also seen by Bharat Steel Industries.",
+    "mentions": [
+      {
+        "surface_form": "the Gujarat franchise owner",
+        "context": "A support ticket mentions that the Gujarat franchise owner escalated a billing issue also seen by Bharat Steel Industries.",
+        "gold_entity_id": "GOLD_E03"
+      },
+      {
+        "surface_form": "Bharat Steel Industries",
+        "context": "A support ticket mentions that the Gujarat franchise owner escalated a billing issue also seen by Bharat Steel Industries.",
+        "gold_entity_id": "GOLD_E09"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_005",
+    "text": "Vikram Aditya Rao was brought on as a technical consultant working alongside Global Textile Solutions.",
+    "mentions": [
+      {
+        "surface_form": "Vikram Aditya Rao",
+        "context": "Vikram Aditya Rao was brought on as a technical consultant working alongside Global Textile Solutions.",
+        "gold_entity_id": "GOLD_E05"
+      },
+      {
+        "surface_form": "Global Textile Solutions",
+        "context": "Vikram Aditya Rao was brought on as a technical consultant working alongside Global Textile Solutions.",
+        "gold_entity_id": "GOLD_E11"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_006",
+    "text": "Meena Kumari Yadav manages HR onboarding and works with Chandrashekhar Industries on interviews.",
+    "mentions": [
+      {
+        "surface_form": "Meena Kumari Yadav",
+        "context": "Meena Kumari Yadav manages HR onboarding and works with Chandrashekhar Industries on interviews.",
+        "gold_entity_id": "GOLD_E06"
+      },
+      {
+        "surface_form": "Chandrashekhar Industries",
+        "context": "Meena Kumari Yadav manages HR onboarding and works with Chandrashekhar Industries on interviews.",
+        "gold_entity_id": "GOLD_E12"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_007",
+    "text": "A sourcing note mentions the Jaipur-based enterprise together with Vikram Aditya Rao.",
+    "mentions": [
+      {
+        "surface_form": "the Jaipur-based enterprise",
+        "context": "A sourcing note mentions the Jaipur-based enterprise together with Vikram Aditya Rao.",
+        "gold_entity_id": "GOLD_E14"
+      },
+      {
+        "surface_form": "Vikram Aditya Rao",
+        "context": "A sourcing note mentions the Jaipur-based enterprise together with Vikram Aditya Rao.",
+        "gold_entity_id": "GOLD_E05"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_008",
+    "text": "The delivery log lists SLPL, coordinated with Meena Kumari Yadav.",
+    "mentions": [
+      {
+        "surface_form": "SLPL",
+        "context": "The delivery log lists SLPL, coordinated with Meena Kumari Yadav.",
+        "gold_entity_id": "GOLD_E15"
+      },
+      {
+        "surface_form": "Meena Kumari Yadav",
+        "context": "The delivery log lists SLPL, coordinated with Meena Kumari Yadav.",
+        "gold_entity_id": "GOLD_E06"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_009",
+    "text": "भारत स्टील इंडस्ट्रीज ने Sagar Logistics Pvt Ltd के माध्यम से नया ऑर्डर प्राप्त किया।",
+    "mentions": [
+      {
+        "surface_form": "भारत स्टील इंडस्ट्रीज",
+        "context": "भारत स्टील इंडस्ट्रीज ने Sagar Logistics Pvt Ltd के माध्यम से नया ऑर्डर प्राप्त किया।",
+        "gold_entity_id": "GOLD_E09"
+      },
+      {
+        "surface_form": "Sagar Logistics Pvt Ltd",
+        "context": "भारत स्टील इंडस्ट्रीज ने Sagar Logistics Pvt Ltd के माध्यम से नया ऑर्डर प्राप्त किया।",
+        "gold_entity_id": "GOLD_E15"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_010",
+    "text": "A ticket notes the technical consultant debugging an issue reported jointly with Global Textile Solutions.",
+    "mentions": [
+      {
+        "surface_form": "the technical consultant",
+        "context": "A ticket notes the technical consultant debugging an issue reported jointly with Global Textile Solutions.",
+        "gold_entity_id": "GOLD_E05"
+      },
+      {
+        "surface_form": "Global Textile Solutions",
+        "context": "A ticket notes the technical consultant debugging an issue reported jointly with Global Textile Solutions.",
+        "gold_entity_id": "GOLD_E11"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_011",
+    "text": "गुजरात फ्रैंचाइज़ी के प्रमुख अमित पटेल ने Bharat Steel Industries के साथ बैठक की।",
+    "mentions": [
+      {
+        "surface_form": "अमित पटेल",
+        "context": "गुजरात फ्रैंचाइज़ी के प्रमुख अमित पटेल ने Bharat Steel Industries के साथ बैठक की।",
+        "gold_entity_id": "GOLD_E03"
+      },
+      {
+        "surface_form": "Bharat Steel Industries",
+        "context": "गुजरात फ्रैंचाइज़ी के प्रमुख अमित पटेल ने Bharat Steel Industries के साथ बैठक की।",
+        "gold_entity_id": "GOLD_E09"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_012",
+    "text": "Nagpur Agro Exports Ltd is expanding its export pipeline with Rajesh Kumar Sharma.",
+    "mentions": [
+      {
+        "surface_form": "Nagpur Agro Exports Ltd",
+        "context": "Nagpur Agro Exports Ltd is expanding its export pipeline with Rajesh Kumar Sharma.",
+        "gold_entity_id": "GOLD_E10"
+      },
+      {
+        "surface_form": "Rajesh Kumar Sharma",
+        "context": "Nagpur Agro Exports Ltd is expanding its export pipeline with Rajesh Kumar Sharma.",
+        "gold_entity_id": "GOLD_E01"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_013",
+    "text": "A KCD dataset entry lists the NCR-based paid seller as active, cross-referenced with Rani Enterprises.",
+    "mentions": [
+      {
+        "surface_form": "the NCR-based paid seller",
+        "context": "A KCD dataset entry lists the NCR-based paid seller as active, cross-referenced with Rani Enterprises.",
+        "gold_entity_id": "GOLD_E08"
+      },
+      {
+        "surface_form": "Rani Enterprises",
+        "context": "A KCD dataset entry lists the NCR-based paid seller as active, cross-referenced with Rani Enterprises.",
+        "gold_entity_id": "GOLD_E14"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_014",
+    "text": "चंद्रशेखर इंडस्ट्रीज ने Amit Patel के साथ अनुपालन रिपोर्ट प्रस्तुत की।",
+    "mentions": [
+      {
+        "surface_form": "चंद्रशेखर इंडस्ट्रीज",
+        "context": "चंद्रशेखर इंडस्ट्रीज ने Amit Patel के साथ अनुपालन रिपोर्ट प्रस्तुत की।",
+        "gold_entity_id": "GOLD_E12"
+      },
+      {
+        "surface_form": "Amit Patel",
+        "context": "चंद्रशेखर इंडस्ट्रीज ने Amit Patel के साथ अनुपालन रिपोर्ट प्रस्तुत की।",
+        "gold_entity_id": "GOLD_E03"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_015",
+    "text": "Invoice #4471 was raised for KCD Traders, processed with Rani Enterprises.",
+    "mentions": [
+      {
+        "surface_form": "KCD Traders",
+        "context": "Invoice #4471 was raised for KCD Traders, processed with Rani Enterprises.",
+        "gold_entity_id": "GOLD_E08"
+      },
+      {
+        "surface_form": "Rani Enterprises",
+        "context": "Invoice #4471 was raised for KCD Traders, processed with Rani Enterprises.",
+        "gold_entity_id": "GOLD_E14"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_016",
+    "text": "हिमालयन ट्रेडर्स एंड कंपनी ने Sunita Devi Verma के साथ नई दर तय की।",
+    "mentions": [
+      {
+        "surface_form": "हिमालयन ट्रेडर्स एंड कंपनी",
+        "context": "हिमालयन ट्रेडर्स एंड कंपनी ने Sunita Devi Verma के साथ नई दर तय की।",
+        "gold_entity_id": "GOLD_E13"
+      },
+      {
+        "surface_form": "Sunita Devi Verma",
+        "context": "हिमालयन ट्रेडर्स एंड कंपनी ने Sunita Devi Verma के साथ नई दर तय की।",
+        "gold_entity_id": "GOLD_E04"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_017",
+    "text": "According to the internal memo, the regional director for North zone flagged a delay in the Delhi rollout involving Suresh Chandra Gupta.",
+    "mentions": [
+      {
+        "surface_form": "the regional director for North zone",
+        "context": "According to the internal memo, the regional director for North zone flagged a delay in the Delhi rollout involving Suresh Chandra Gupta.",
+        "gold_entity_id": "GOLD_E01"
+      },
+      {
+        "surface_form": "Suresh Chandra Gupta",
+        "context": "According to the internal memo, the regional director for North zone flagged a delay in the Delhi rollout involving Suresh Chandra Gupta.",
+        "gold_entity_id": "GOLD_E07"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_018",
+    "text": "एचआर प्रबंधक मीना कुमारी यादव ने Chandrashekhar Industries के साथ साक्षात्कार लिए।",
+    "mentions": [
+      {
+        "surface_form": "मीना कुमारी यादव",
+        "context": "एचआर प्रबंधक मीना कुमारी यादव ने Chandrashekhar Industries के साथ साक्षात्कार लिए।",
+        "gold_entity_id": "GOLD_E06"
+      },
+      {
+        "surface_form": "Chandrashekhar Industries",
+        "context": "एचआर प्रबंधक मीना कुमारी यादव ने Chandrashekhar Industries के साथ साक्षात्कार लिए।",
+        "gold_entity_id": "GOLD_E12"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_019",
+    "text": "The rate card memo lists HT&Co, alongside Sunita Devi Verma.",
+    "mentions": [
+      {
+        "surface_form": "HT&Co",
+        "context": "The rate card memo lists HT&Co, alongside Sunita Devi Verma.",
+        "gold_entity_id": "GOLD_E13"
+      },
+      {
+        "surface_form": "Sunita Devi Verma",
+        "context": "The rate card memo lists HT&Co, alongside Sunita Devi Verma.",
+        "gold_entity_id": "GOLD_E04"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_020",
+    "text": "Priya Singh Chauhan leads the marketing team responsible for the new seller onboarding campaign with KCD Traders Pvt Ltd.",
+    "mentions": [
+      {
+        "surface_form": "Priya Singh Chauhan",
+        "context": "Priya Singh Chauhan leads the marketing team responsible for the new seller onboarding campaign with KCD Traders Pvt Ltd.",
+        "gold_entity_id": "GOLD_E02"
+      },
+      {
+        "surface_form": "KCD Traders Pvt Ltd",
+        "context": "Priya Singh Chauhan leads the marketing team responsible for the new seller onboarding campaign with KCD Traders Pvt Ltd.",
+        "gold_entity_id": "GOLD_E08"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_021",
+    "text": "केसीडी ट्रेडर्स प्राइवेट लिमिटेड ने इस महीने थोक ऑर्डर दिया, जिसे Rani Enterprises के माध्यम से संभाला गया।",
+    "mentions": [
+      {
+        "surface_form": "केसीडी ट्रेडर्स प्राइवेट लिमिटेड",
+        "context": "केसीडी ट्रेडर्स प्राइवेट लिमिटेड ने इस महीने थोक ऑर्डर दिया, जिसे Rani Enterprises के माध्यम से संभाला गया।",
+        "gold_entity_id": "GOLD_E08"
+      },
+      {
+        "surface_form": "Rani Enterprises",
+        "context": "केसीडी ट्रेडर्स प्राइवेट लिमिटेड ने इस महीने थोक ऑर्डर दिया, जिसे Rani Enterprises के माध्यम से संभाला गया।",
+        "gold_entity_id": "GOLD_E14"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_022",
+    "text": "Franchise report #12 is signed by A. Patel, referencing updates from Bharat Steel Industries.",
+    "mentions": [
+      {
+        "surface_form": "A. Patel",
+        "context": "Franchise report #12 is signed by A. Patel, referencing updates from Bharat Steel Industries.",
+        "gold_entity_id": "GOLD_E03"
+      },
+      {
+        "surface_form": "Bharat Steel Industries",
+        "context": "Franchise report #12 is signed by A. Patel, referencing updates from Bharat Steel Industries.",
+        "gold_entity_id": "GOLD_E09"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_023",
+    "text": "A dispatch note mentions the logistics partner from Mumbai alongside Meena Kumari Yadav.",
+    "mentions": [
+      {
+        "surface_form": "the logistics partner from Mumbai",
+        "context": "A dispatch note mentions the logistics partner from Mumbai alongside Meena Kumari Yadav.",
+        "gold_entity_id": "GOLD_E15"
+      },
+      {
+        "surface_form": "Meena Kumari Yadav",
+        "context": "A dispatch note mentions the logistics partner from Mumbai alongside Meena Kumari Yadav.",
+        "gold_entity_id": "GOLD_E06"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_024",
+    "text": "The hiring summary was drafted by M.K. Yadav, cc'ing Chandrashekhar Industries.",
+    "mentions": [
+      {
+        "surface_form": "M.K. Yadav",
+        "context": "The hiring summary was drafted by M.K. Yadav, cc'ing Chandrashekhar Industries.",
+        "gold_entity_id": "GOLD_E06"
+      },
+      {
+        "surface_form": "Chandrashekhar Industries",
+        "context": "The hiring summary was drafted by M.K. Yadav, cc'ing Chandrashekhar Industries.",
+        "gold_entity_id": "GOLD_E12"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_025",
+    "text": "ग्लोबल टेक्सटाइल सॉल्यूशंस को Priya Singh Chauhan द्वारा संदर्भित किया गया।",
+    "mentions": [
+      {
+        "surface_form": "ग्लोबल टेक्सटाइल सॉल्यूशंस",
+        "context": "ग्लोबल टेक्सटाइल सॉल्यूशंस को Priya Singh Chauhan द्वारा संदर्भित किया गया।",
+        "gold_entity_id": "GOLD_E11"
+      },
+      {
+        "surface_form": "Priya Singh Chauhan",
+        "context": "ग्लोबल टेक्सटाइल सॉल्यूशंस को Priya Singh Chauhan द्वारा संदर्भित किया गया।",
+        "gold_entity_id": "GOLD_E02"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_026",
+    "text": "Suresh Chandra Gupta is the senior accountant handling ledgers shared with Himalayan Traders & Co..",
+    "mentions": [
+      {
+        "surface_form": "Suresh Chandra Gupta",
+        "context": "Suresh Chandra Gupta is the senior accountant handling ledgers shared with Himalayan Traders & Co..",
+        "gold_entity_id": "GOLD_E07"
+      },
+      {
+        "surface_form": "Himalayan Traders & Co.",
+        "context": "Suresh Chandra Gupta is the senior accountant handling ledgers shared with Himalayan Traders & Co..",
+        "gold_entity_id": "GOLD_E13"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_027",
+    "text": "Rajesh Kumar Sharma took over as regional sales director for the North zone last quarter, working closely with Suresh Chandra Gupta.",
+    "mentions": [
+      {
+        "surface_form": "Rajesh Kumar Sharma",
+        "context": "Rajesh Kumar Sharma took over as regional sales director for the North zone last quarter, working closely with Suresh Chandra Gupta.",
+        "gold_entity_id": "GOLD_E01"
+      },
+      {
+        "surface_form": "Suresh Chandra Gupta",
+        "context": "Rajesh Kumar Sharma took over as regional sales director for the North zone last quarter, working closely with Suresh Chandra Gupta.",
+        "gold_entity_id": "GOLD_E07"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_028",
+    "text": "Chandrashekhar Industries filed a compliance update coordinated with Amit Patel.",
+    "mentions": [
+      {
+        "surface_form": "Chandrashekhar Industries",
+        "context": "Chandrashekhar Industries filed a compliance update coordinated with Amit Patel.",
+        "gold_entity_id": "GOLD_E12"
+      },
+      {
+        "surface_form": "Amit Patel",
+        "context": "Chandrashekhar Industries filed a compliance update coordinated with Amit Patel.",
+        "gold_entity_id": "GOLD_E03"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_029",
+    "text": "वरिष्ठ लेखाकार सुरेश चंद्र गुप्ता ने Himalayan Traders & Co. के साथ खाता बही की जांच की।",
+    "mentions": [
+      {
+        "surface_form": "सुरेश चंद्र गुप्ता",
+        "context": "वरिष्ठ लेखाकार सुरेश चंद्र गुप्ता ने Himalayan Traders & Co. के साथ खाता बही की जांच की।",
+        "gold_entity_id": "GOLD_E07"
+      },
+      {
+        "surface_form": "Himalayan Traders & Co.",
+        "context": "वरिष्ठ लेखाकार सुरेश चंद्र गुप्ता ने Himalayan Traders & Co. के साथ खाता बही की जांच की।",
+        "gold_entity_id": "GOLD_E13"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_030",
+    "text": "Rani Enterprises is a Jaipur-based enterprise partnered with Vikram Aditya Rao.",
+    "mentions": [
+      {
+        "surface_form": "Rani Enterprises",
+        "context": "Rani Enterprises is a Jaipur-based enterprise partnered with Vikram Aditya Rao.",
+        "gold_entity_id": "GOLD_E14"
+      },
+      {
+        "surface_form": "Vikram Aditya Rao",
+        "context": "Rani Enterprises is a Jaipur-based enterprise partnered with Vikram Aditya Rao.",
+        "gold_entity_id": "GOLD_E05"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_031",
+    "text": "The integration doc lists V.A. Rao as reviewer, alongside Global Textile Solutions.",
+    "mentions": [
+      {
+        "surface_form": "V.A. Rao",
+        "context": "The integration doc lists V.A. Rao as reviewer, alongside Global Textile Solutions.",
+        "gold_entity_id": "GOLD_E05"
+      },
+      {
+        "surface_form": "Global Textile Solutions",
+        "context": "The integration doc lists V.A. Rao as reviewer, alongside Global Textile Solutions.",
+        "gold_entity_id": "GOLD_E11"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_032",
+    "text": "KCD Traders Pvt Ltd placed a bulk order this month, coordinated through Rani Enterprises.",
+    "mentions": [
+      {
+        "surface_form": "KCD Traders Pvt Ltd",
+        "context": "KCD Traders Pvt Ltd placed a bulk order this month, coordinated through Rani Enterprises.",
+        "gold_entity_id": "GOLD_E08"
+      },
+      {
+        "surface_form": "Rani Enterprises",
+        "context": "KCD Traders Pvt Ltd placed a bulk order this month, coordinated through Rani Enterprises.",
+        "gold_entity_id": "GOLD_E14"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_033",
+    "text": "A trade note mentions the agro exports company from Nagpur working with Rajesh Kumar Sharma.",
+    "mentions": [
+      {
+        "surface_form": "the agro exports company from Nagpur",
+        "context": "A trade note mentions the agro exports company from Nagpur working with Rajesh Kumar Sharma.",
+        "gold_entity_id": "GOLD_E10"
+      },
+      {
+        "surface_form": "Rajesh Kumar Sharma",
+        "context": "A trade note mentions the agro exports company from Nagpur working with Rajesh Kumar Sharma.",
+        "gold_entity_id": "GOLD_E01"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_034",
+    "text": "Ledger review #7 was signed off by S.C. Gupta, referencing Himalayan Traders & Co..",
+    "mentions": [
+      {
+        "surface_form": "S.C. Gupta",
+        "context": "Ledger review #7 was signed off by S.C. Gupta, referencing Himalayan Traders & Co..",
+        "gold_entity_id": "GOLD_E07"
+      },
+      {
+        "surface_form": "Himalayan Traders & Co.",
+        "context": "Ledger review #7 was signed off by S.C. Gupta, referencing Himalayan Traders & Co..",
+        "gold_entity_id": "GOLD_E13"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_035",
+    "text": "Himalayan Traders & Co. negotiated a new rate card with Sunita Devi Verma.",
+    "mentions": [
+      {
+        "surface_form": "Himalayan Traders & Co.",
+        "context": "Himalayan Traders & Co. negotiated a new rate card with Sunita Devi Verma.",
+        "gold_entity_id": "GOLD_E13"
+      },
+      {
+        "surface_form": "Sunita Devi Verma",
+        "context": "Himalayan Traders & Co. negotiated a new rate card with Sunita Devi Verma.",
+        "gold_entity_id": "GOLD_E04"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_036",
+    "text": "Sunita Devi Verma is the finance officer overseeing reconciliation with Nagpur Agro Exports Ltd.",
+    "mentions": [
+      {
+        "surface_form": "Sunita Devi Verma",
+        "context": "Sunita Devi Verma is the finance officer overseeing reconciliation with Nagpur Agro Exports Ltd.",
+        "gold_entity_id": "GOLD_E04"
+      },
+      {
+        "surface_form": "Nagpur Agro Exports Ltd",
+        "context": "Sunita Devi Verma is the finance officer overseeing reconciliation with Nagpur Agro Exports Ltd.",
+        "gold_entity_id": "GOLD_E10"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_037",
+    "text": "A procurement note lists the steel supplier from Ludhiana alongside Sagar Logistics Pvt Ltd.",
+    "mentions": [
+      {
+        "surface_form": "the steel supplier from Ludhiana",
+        "context": "A procurement note lists the steel supplier from Ludhiana alongside Sagar Logistics Pvt Ltd.",
+        "gold_entity_id": "GOLD_E09"
+      },
+      {
+        "surface_form": "Sagar Logistics Pvt Ltd",
+        "context": "A procurement note lists the steel supplier from Ludhiana alongside Sagar Logistics Pvt Ltd.",
+        "gold_entity_id": "GOLD_E15"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_038",
+    "text": "Account record shows GTS upgraded its plan, linked to Priya Singh Chauhan.",
+    "mentions": [
+      {
+        "surface_form": "GTS",
+        "context": "Account record shows GTS upgraded its plan, linked to Priya Singh Chauhan.",
+        "gold_entity_id": "GOLD_E11"
+      },
+      {
+        "surface_form": "Priya Singh Chauhan",
+        "context": "Account record shows GTS upgraded its plan, linked to Priya Singh Chauhan.",
+        "gold_entity_id": "GOLD_E02"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_039",
+    "text": "Bharat Steel Industries supplies raw steel to buyers connected via Sagar Logistics Pvt Ltd.",
+    "mentions": [
+      {
+        "surface_form": "Bharat Steel Industries",
+        "context": "Bharat Steel Industries supplies raw steel to buyers connected via Sagar Logistics Pvt Ltd.",
+        "gold_entity_id": "GOLD_E09"
+      },
+      {
+        "surface_form": "Sagar Logistics Pvt Ltd",
+        "context": "Bharat Steel Industries supplies raw steel to buyers connected via Sagar Logistics Pvt Ltd.",
+        "gold_entity_id": "GOLD_E15"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_040",
+    "text": "रानी एंटरप्राइजेज ने Vikram Aditya Rao के साथ साझेदारी की।",
+    "mentions": [
+      {
+        "surface_form": "रानी एंटरप्राइजेज",
+        "context": "रानी एंटरप्राइजेज ने Vikram Aditya Rao के साथ साझेदारी की।",
+        "gold_entity_id": "GOLD_E14"
+      },
+      {
+        "surface_form": "Vikram Aditya Rao",
+        "context": "रानी एंटरप्राइजेज ने Vikram Aditya Rao के साथ साझेदारी की।",
+        "gold_entity_id": "GOLD_E05"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_041",
+    "text": "वित्त अधिकारी सुनीता देवी वर्मा ने Nagpur Agro Exports Ltd के खातों की समीक्षा की।",
+    "mentions": [
+      {
+        "surface_form": "सुनीता देवी वर्मा",
+        "context": "वित्त अधिकारी सुनीता देवी वर्मा ने Nagpur Agro Exports Ltd के खातों की समीक्षा की।",
+        "gold_entity_id": "GOLD_E04"
+      },
+      {
+        "surface_form": "Nagpur Agro Exports Ltd",
+        "context": "वित्त अधिकारी सुनीता देवी वर्मा ने Nagpur Agro Exports Ltd के खातों की समीक्षा की।",
+        "gold_entity_id": "GOLD_E10"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_042",
+    "text": "A regional filing lists Chandrasekar Industries, cross-checked against Amit Patel.",
+    "mentions": [
+      {
+        "surface_form": "Chandrasekar Industries",
+        "context": "A regional filing lists Chandrasekar Industries, cross-checked against Amit Patel.",
+        "gold_entity_id": "GOLD_E12"
+      },
+      {
+        "surface_form": "Amit Patel",
+        "context": "A regional filing lists Chandrasekar Industries, cross-checked against Amit Patel.",
+        "gold_entity_id": "GOLD_E03"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_043",
+    "text": "सागर लॉजिस्टिक्स प्राइवेट लिमिटेड ने Meena Kumari Yadav से जुड़ी खेप संभाली।",
+    "mentions": [
+      {
+        "surface_form": "सागर लॉजिस्टिक्स प्राइवेट लिमिटेड",
+        "context": "सागर लॉजिस्टिक्स प्राइवेट लिमिटेड ने Meena Kumari Yadav से जुड़ी खेप संभाली।",
+        "gold_entity_id": "GOLD_E15"
+      },
+      {
+        "surface_form": "Meena Kumari Yadav",
+        "context": "सागर लॉजिस्टिक्स प्राइवेट लिमिटेड ने Meena Kumari Yadav से जुड़ी खेप संभाली।",
+        "gold_entity_id": "GOLD_E06"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_044",
+    "text": "A meeting note filed by R.K. Sharma discusses onboarding new sellers alongside Suresh Chandra Gupta.",
+    "mentions": [
+      {
+        "surface_form": "R.K. Sharma",
+        "context": "A meeting note filed by R.K. Sharma discusses onboarding new sellers alongside Suresh Chandra Gupta.",
+        "gold_entity_id": "GOLD_E01"
+      },
+      {
+        "surface_form": "Suresh Chandra Gupta",
+        "context": "A meeting note filed by R.K. Sharma discusses onboarding new sellers alongside Suresh Chandra Gupta.",
+        "gold_entity_id": "GOLD_E07"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_045",
+    "text": "A note says the senior accountant cross-checked figures also reviewed by Himalayan Traders & Co..",
+    "mentions": [
+      {
+        "surface_form": "the senior accountant",
+        "context": "A note says the senior accountant cross-checked figures also reviewed by Himalayan Traders & Co..",
+        "gold_entity_id": "GOLD_E07"
+      },
+      {
+        "surface_form": "Himalayan Traders & Co.",
+        "context": "A note says the senior accountant cross-checked figures also reviewed by Himalayan Traders & Co..",
+        "gold_entity_id": "GOLD_E13"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_046",
+    "text": "नागपुर एग्रो एक्सपोर्ट्स लिमिटेड ने Rajesh Kumar Sharma के साथ निर्यात समझौता किया।",
+    "mentions": [
+      {
+        "surface_form": "नागपुर एग्रो एक्सपोर्ट्स लिमिटेड",
+        "context": "नागपुर एग्रो एक्सपोर्ट्स लिमिटेड ने Rajesh Kumar Sharma के साथ निर्यात समझौता किया।",
+        "gold_entity_id": "GOLD_E10"
+      },
+      {
+        "surface_form": "Rajesh Kumar Sharma",
+        "context": "नागपुर एग्रो एक्सपोर्ट्स लिमिटेड ने Rajesh Kumar Sharma के साथ निर्यात समझौता किया।",
+        "gold_entity_id": "GOLD_E01"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_047",
+    "text": "मार्केटिंग टीम की प्रमुख प्रिया सिंह चौहान ने KCD Traders Pvt Ltd के साथ नई अभियान रणनीति पर चर्चा की।",
+    "mentions": [
+      {
+        "surface_form": "प्रिया सिंह चौहान",
+        "context": "मार्केटिंग टीम की प्रमुख प्रिया सिंह चौहान ने KCD Traders Pvt Ltd के साथ नई अभियान रणनीति पर चर्चा की।",
+        "gold_entity_id": "GOLD_E02"
+      },
+      {
+        "surface_form": "KCD Traders Pvt Ltd",
+        "context": "मार्केटिंग टीम की प्रमुख प्रिया सिंह चौहान ने KCD Traders Pvt Ltd के साथ नई अभियान रणनीति पर चर्चा की।",
+        "gold_entity_id": "GOLD_E08"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_048",
+    "text": "Shipment log references BSI, coordinated with Sagar Logistics Pvt Ltd.",
+    "mentions": [
+      {
+        "surface_form": "BSI",
+        "context": "Shipment log references BSI, coordinated with Sagar Logistics Pvt Ltd.",
+        "gold_entity_id": "GOLD_E09"
+      },
+      {
+        "surface_form": "Sagar Logistics Pvt Ltd",
+        "context": "Shipment log references BSI, coordinated with Sagar Logistics Pvt Ltd.",
+        "gold_entity_id": "GOLD_E15"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_049",
+    "text": "A note references the hill-region trading company working with Sunita Devi Verma.",
+    "mentions": [
+      {
+        "surface_form": "the hill-region trading company",
+        "context": "A note references the hill-region trading company working with Sunita Devi Verma.",
+        "gold_entity_id": "GOLD_E13"
+      },
+      {
+        "surface_form": "Sunita Devi Verma",
+        "context": "A note references the hill-region trading company working with Sunita Devi Verma.",
+        "gold_entity_id": "GOLD_E04"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_050",
+    "text": "A ticket references the textile solutions provider alongside Priya Singh Chauhan.",
+    "mentions": [
+      {
+        "surface_form": "the textile solutions provider",
+        "context": "A ticket references the textile solutions provider alongside Priya Singh Chauhan.",
+        "gold_entity_id": "GOLD_E11"
+      },
+      {
+        "surface_form": "Priya Singh Chauhan",
+        "context": "A ticket references the textile solutions provider alongside Priya Singh Chauhan.",
+        "gold_entity_id": "GOLD_E02"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_051",
+    "text": "Slide 4 of the campaign deck is credited to P.S. Chauhan, coordinating with KCD Traders Pvt Ltd.",
+    "mentions": [
+      {
+        "surface_form": "P.S. Chauhan",
+        "context": "Slide 4 of the campaign deck is credited to P.S. Chauhan, coordinating with KCD Traders Pvt Ltd.",
+        "gold_entity_id": "GOLD_E02"
+      },
+      {
+        "surface_form": "KCD Traders Pvt Ltd",
+        "context": "Slide 4 of the campaign deck is credited to P.S. Chauhan, coordinating with KCD Traders Pvt Ltd.",
+        "gold_entity_id": "GOLD_E08"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_052",
+    "text": "Sagar Logistics Pvt Ltd handles last-mile delivery for shipments involving Meena Kumari Yadav.",
+    "mentions": [
+      {
+        "surface_form": "Sagar Logistics Pvt Ltd",
+        "context": "Sagar Logistics Pvt Ltd handles last-mile delivery for shipments involving Meena Kumari Yadav.",
+        "gold_entity_id": "GOLD_E15"
+      },
+      {
+        "surface_form": "Meena Kumari Yadav",
+        "context": "Sagar Logistics Pvt Ltd handles last-mile delivery for shipments involving Meena Kumari Yadav.",
+        "gold_entity_id": "GOLD_E06"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_053",
+    "text": "Amit Patel runs the Gujarat franchise operations and coordinates with Bharat Steel Industries.",
+    "mentions": [
+      {
+        "surface_form": "Amit Patel",
+        "context": "Amit Patel runs the Gujarat franchise operations and coordinates with Bharat Steel Industries.",
+        "gold_entity_id": "GOLD_E03"
+      },
+      {
+        "surface_form": "Bharat Steel Industries",
+        "context": "Amit Patel runs the Gujarat franchise operations and coordinates with Bharat Steel Industries.",
+        "gold_entity_id": "GOLD_E09"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_054",
+    "text": "The finance annexure was prepared by S.D. Verma in coordination with Nagpur Agro Exports Ltd.",
+    "mentions": [
+      {
+        "surface_form": "S.D. Verma",
+        "context": "The finance annexure was prepared by S.D. Verma in coordination with Nagpur Agro Exports Ltd.",
+        "gold_entity_id": "GOLD_E04"
+      },
+      {
+        "surface_form": "Nagpur Agro Exports Ltd",
+        "context": "The finance annexure was prepared by S.D. Verma in coordination with Nagpur Agro Exports Ltd.",
+        "gold_entity_id": "GOLD_E10"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_055",
+    "text": "An audit trail entry shows the finance officer approving a refund also flagged by Nagpur Agro Exports Ltd.",
+    "mentions": [
+      {
+        "surface_form": "the finance officer",
+        "context": "An audit trail entry shows the finance officer approving a refund also flagged by Nagpur Agro Exports Ltd.",
+        "gold_entity_id": "GOLD_E04"
+      },
+      {
+        "surface_form": "Nagpur Agro Exports Ltd",
+        "context": "An audit trail entry shows the finance officer approving a refund also flagged by Nagpur Agro Exports Ltd.",
+        "gold_entity_id": "GOLD_E10"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_056",
+    "text": "तकनीकी सलाहकार विक्रम आदित्य राव ने Global Textile Solutions के साथ सिस्टम की समीक्षा की।",
+    "mentions": [
+      {
+        "surface_form": "विक्रम आदित्य राव",
+        "context": "तकनीकी सलाहकार विक्रम आदित्य राव ने Global Textile Solutions के साथ सिस्टम की समीक्षा की।",
+        "gold_entity_id": "GOLD_E05"
+      },
+      {
+        "surface_form": "Global Textile Solutions",
+        "context": "तकनीकी सलाहकार विक्रम आदित्य राव ने Global Textile Solutions के साथ सिस्टम की समीक्षा की।",
+        "gold_entity_id": "GOLD_E11"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_057",
+    "text": "Internal notes mention the industrial supplier with the spelling-variant name alongside Amit Patel.",
+    "mentions": [
+      {
+        "surface_form": "the industrial supplier with the spelling-variant name",
+        "context": "Internal notes mention the industrial supplier with the spelling-variant name alongside Amit Patel.",
+        "gold_entity_id": "GOLD_E12"
+      },
+      {
+        "surface_form": "Amit Patel",
+        "context": "Internal notes mention the industrial supplier with the spelling-variant name alongside Amit Patel.",
+        "gold_entity_id": "GOLD_E03"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_058",
+    "text": "उत्तर क्षेत्र के लिए राजेश कुमार शर्मा को क्षेत्रीय बिक्री निदेशक नियुक्त किया गया, जो Suresh Chandra Gupta के साथ मिलकर काम करते हैं।",
+    "mentions": [
+      {
+        "surface_form": "राजेश कुमार शर्मा",
+        "context": "उत्तर क्षेत्र के लिए राजेश कुमार शर्मा को क्षेत्रीय बिक्री निदेशक नियुक्त किया गया, जो Suresh Chandra Gupta के साथ मिलकर काम करते हैं।",
+        "gold_entity_id": "GOLD_E01"
+      },
+      {
+        "surface_form": "Suresh Chandra Gupta",
+        "context": "उत्तर क्षेत्र के लिए राजेश कुमार शर्मा को क्षेत्रीय बिक्री निदेशक नियुक्त किया गया, जो Suresh Chandra Gupta के साथ मिलकर काम करते हैं।",
+        "gold_entity_id": "GOLD_E07"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_059",
+    "text": "The campaign brief says the marketing head signed off on the creative direction with input from KCD Traders Pvt Ltd.",
+    "mentions": [
+      {
+        "surface_form": "the marketing head",
+        "context": "The campaign brief says the marketing head signed off on the creative direction with input from KCD Traders Pvt Ltd.",
+        "gold_entity_id": "GOLD_E02"
+      },
+      {
+        "surface_form": "KCD Traders Pvt Ltd",
+        "context": "The campaign brief says the marketing head signed off on the creative direction with input from KCD Traders Pvt Ltd.",
+        "gold_entity_id": "GOLD_E08"
+      }
+    ]
+  },
+  {
+    "doc_id": "doc_060",
+    "text": "Global Textile Solutions onboarded as a paid seller, referred by Priya Singh Chauhan.",
+    "mentions": [
+      {
+        "surface_form": "Global Textile Solutions",
+        "context": "Global Textile Solutions onboarded as a paid seller, referred by Priya Singh Chauhan.",
+        "gold_entity_id": "GOLD_E11"
+      },
+      {
+        "surface_form": "Priya Singh Chauhan",
+        "context": "Global Textile Solutions onboarded as a paid seller, referred by Priya Singh Chauhan.",
+        "gold_entity_id": "GOLD_E02"
+      }
+    ]
+  }
+]
