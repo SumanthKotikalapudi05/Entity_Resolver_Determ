@@ -1,5 +1,9 @@
-# entity-resolver
+![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue)
+![Tests](https://img.shields.io/badge/tests-passing-green)
+![No external APIs](https://img.shields.io/badge/dependencies-offline--only-lightgrey)
 
+# entity-resolver
+A wrong merge silently corrupts data forever; a missed merge just leaves work for later. This project treats those two failure modes as fundamentally unequal — and is built to prove it.
 A standalone, deterministic, multilingual entity resolution engine. It merges
 mentions of the same real-world person or organization across documents,
 even when the name changes script (English / Devanagari), gets abbreviated,
@@ -9,6 +13,8 @@ director").
 No cloud services, no paid APIs, no LLM calls by default. Everything runs
 locally against a synthetic dataset with `rapidfuzz`, `indic-transliteration`,
 `networkx`, and `pydantic`.
+
+This is a small, deterministic proof-of-concept (60 docs, 15 entities) — not scale-tested. See Design Decisions below for what's proven vs. what would need rework at scale.
 
 ## Problem statement
 
